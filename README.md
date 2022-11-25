@@ -29,13 +29,13 @@
   
   - Add it in your root build.gradle at the end of repositories:
   
-<repositories>
-		<repository>
-		    <id>jitpack.io</id>
-		    <url>https://jitpack.io</url>
-		</repository>
-	</repositories>
-  
+		<repositories>
+			<repository>
+			    <id>jitpack.io</id>
+			    <url>https://jitpack.io</url>
+			</repository>
+		</repositories>
+
 2).  Add the dependency
   
     <dependency>
