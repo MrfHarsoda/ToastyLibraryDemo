@@ -19,7 +19,7 @@
   2).  Add the dependency
   
       dependencies {
-	        implementation 'com.github.MrfHarsoda:ToastyLibraryDemo:Tag'
+	        implementation 'com.github.MrfHarsoda:ToastyLibraryDemo:1.0.0'
 	}
   
   
